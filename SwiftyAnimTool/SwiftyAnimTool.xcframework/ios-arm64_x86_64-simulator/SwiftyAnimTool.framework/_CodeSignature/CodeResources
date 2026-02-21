@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/SwiftyAnimTool-Swift.h</key>
 		<data>
-		DfSLR7jS8jwhxu+BYjSmlTlDLho=
+		jMiOwBm99QDrQZ8V/VPcHW40ACU=
 		</data>
 		<key>Headers/SwiftyAnimTool.h</key>
 		<data>
@@ -26,35 +26,35 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		uQwnW+K4F0qjTtn/epyx2R7WhUA=
+		dlDNm8G4NVABT10DDJ/v8kXEmqI=
 		</data>
-		<key>Modules/SwiftyAnimTool.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<key>Modules/SwiftyAnimTool.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		OVuZaGBTAuuAa0d0MZtph5uJ+a0=
+		nq/EHMdmIccE5f68cotL34vEzwI=
 		</data>
-		<key>Modules/SwiftyAnimTool.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<key>Modules/SwiftyAnimTool.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		ym+Qy6Wku06kC7Z5UkMgafs0x9Q=
+		68HwBxL4O8t4GiSbs0mKwffOEXs=
 		</data>
-		<key>Modules/SwiftyAnimTool.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<key>Modules/SwiftyAnimTool.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		wePxHCzLeuobJ4gOuTWJIGGzJ4A=
+		B+zx+zrsMaIERrvIgPE2rjQslnE=
 		</data>
-		<key>Modules/SwiftyAnimTool.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/SwiftyAnimTool.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		RRKildWWL+QWqsbvtm39bAST3Ew=
+		psYn7EZbAaKBphQMMJiqu5pAw70=
 		</data>
-		<key>Modules/SwiftyAnimTool.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<key>Modules/SwiftyAnimTool.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		wePxHCzLeuobJ4gOuTWJIGGzJ4A=
+		B+zx+zrsMaIERrvIgPE2rjQslnE=
 		</data>
-		<key>Modules/SwiftyAnimTool.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/SwiftyAnimTool.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		7hmfQgQnttMsX2mTQOGa64iBAi4=
+		4sVT2yukHPRFinX6aXygFQefTiU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		w7BxvpBBH4uWnpEI25VLoSsXDDQ=
+		K+ctVQHjMxlp6IyhUKdWNTcZ6Ck=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -63,7 +63,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XhmDWWv53b2p/JGTVAdLr5FtncgenEq4ts9A4YSh2e0=
+			VoFE4zXs2D9spI5iX4pI79jfeS6Qp9mKu/pdoygZQ1A=
 			</data>
 		</dict>
 		<key>Headers/SwiftyAnimTool.h</key>
@@ -94,53 +94,53 @@
 			5MO7DVdnyaMj4/ifLWu3msR8Np6mJysOvrHrvPczSHI=
 			</data>
 		</dict>
-		<key>Modules/SwiftyAnimTool.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<key>Modules/SwiftyAnimTool.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Bwc/z3QfhKioY1Y7RSqmSXxFouLcNjKQ8sUMXwH7Iq4=
+			l9aJgnLVQ9kBoIqTf/apCEdQTEHWAur9iNFUHlRfAaU=
 			</data>
 		</dict>
-		<key>Modules/SwiftyAnimTool.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<key>Modules/SwiftyAnimTool.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+nYteCTjB8tkC6hVwQOznSkVEUeXzBqcHiqazVcUeUg=
+			9hJpVQHTJ8/7luPLXekN+H1ZJz+dsCiooJ2LAyLKIJc=
 			</data>
 		</dict>
-		<key>Modules/SwiftyAnimTool.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<key>Modules/SwiftyAnimTool.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HZGoUvkfTdEmcYXwdMC758hxBF25yTXMMguXqNk1UfE=
+			evdmGnoaznR82t+MWFKdyn7p1guz219Bc/SIue4xt6w=
 			</data>
 		</dict>
-		<key>Modules/SwiftyAnimTool.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/SwiftyAnimTool.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			O4Sc4fSognkk8W9GENQImUUZGws/qmOjH0j7BxZgIZs=
+			HPT4S50CyiCPGDamYxwX4euNWYvXOm2aKaXhQoWT+nY=
 			</data>
 		</dict>
-		<key>Modules/SwiftyAnimTool.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<key>Modules/SwiftyAnimTool.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HZGoUvkfTdEmcYXwdMC758hxBF25yTXMMguXqNk1UfE=
+			evdmGnoaznR82t+MWFKdyn7p1guz219Bc/SIue4xt6w=
 			</data>
 		</dict>
-		<key>Modules/SwiftyAnimTool.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/SwiftyAnimTool.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Cq5RgASEH9A0Le/eqlFYx9hVbIeK2uaDDsiN3KfZA2o=
+			G9/uZemhP3hdf3ULaJW4lBaS9T8o8GufszrPrFlvNvI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WGZsggVXcuvKsEpnxKpSD4YgmNTpw1JtTcwfP0jyYhg=
+			kxk4MrvlabgDtrAO2wgsPqoMQh4Gp/212BadbP7sDgE=
 			</data>
 		</dict>
 	</dict>
