@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SwiftyAnimTool'
-  s.version          = '1.2.0'
+  s.version          = '1.2.1'
   s.summary          = 'Cocoapod library for animtool'
   s.description      = 'see https://github.com/dinghaoz/animtool'
   s.homepage         = 'https://github.com/Jerry/SwiftyAnimTool'
